@@ -91,7 +91,8 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 
     Acting dishonestly... >_<
 
-    Seems like a pretty straightforward one, this is an example of deliberately trying to "trick" graders.
+    Seems like a pretty straightforward one, this is an example of deliberately trying to 
+    "trick" graders.
     If you feel the need to do this with your file, you're likely already about to get caught.
   
 </details>
