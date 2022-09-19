@@ -3,8 +3,8 @@
 **[College of Engineering](https://engineering.unl.edu/)**  
 **[School of Computing](https://computing.unl.edu/)**  
 
-This repository provides a brief outline of Stanford's Measure of Software Similarity (Moss) system 
-as well as a rundown of how academic dishonesty is handled at the UNL School of Computing.
+This repository provides a brief outline of Stanford's Measure Of Software Similarity (Moss) system 
+as well as a rundown of how academic dishonesty is handled at the UNL School of Computing (SoC). The content found here can be originally found on the webpages linked in the section below.  
 
 ## Links
 Repository is hosted at:
@@ -109,7 +109,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 ## Grading/Code review process
 
 ### Grading outline
-For CSCE 155A, assignment grading is done by Learning Assistants (LA's) and managed by Course Leaders (CL's). A general layout of the process can be found below.
+For CSCE 155A, assignment grading is done by Learning Assistants (LA's) and managed by Course Leaders (CL's). A general layout of the process can be found below:  
 
 - Grading is assigned to LA's after the assignment deadline is passed.
   - Late policy is `-20% per day`.
@@ -119,18 +119,29 @@ For CSCE 155A, assignment grading is done by Learning Assistants (LA's) and mana
   - After this 7-day period, scores are treated as finalized and any requests by students to revisit their score may be denied.
 
 ### How cheating is caught
-During grading, LA's will report any suspicions to the CL's. Anything missed by the graders will typically be picked up by Moss. Regardless of how a potential match was identified, the instructors and CL's will review it and discuss whether the source files show enough evidence to flag the students for violating the academic integrity policy.
+During grading, LA's will report any suspicions to the CL's. Anything missed by the graders will often be picked up by Moss. Regardless of how a potential match was identified, the instructors and CL's will review it and discuss whether the source files show enough evidence to flag the students for violating the academic integrity policy.  
 
 ## Getting flagged for cheating
-TODO
+If it is decided that a potential match is an instance of cheating. Every student involved will be flagged as being in violation of the academic integrity policy. Each student will receive a sanction and a submission comment will be left on Canvas explaining the sanction with deadlines for next steps.  
 
-## Discussion with instructors 
+### Discussion with instructors 
+Any student flagged for cheating has the opportunity to meet with the instructors to discuss the situation. If they know they didn't cheat, this is the time for them to clear things up and remove the sanction. If a student does not reach out by the deadline given to them, it is assumed they did cheat and the sanction stands.  
 
-### General structure
-TODO
+Note that being flagged for a violation is **not** to be taken lightly. Before moving forward with even flagging a student's submission, it is reviewed by multiple members of the instructor team and discussed at length. This is not something done on a whim.  
+
+### Consequences
+A more complete explanation of possible consequences for policy violations can be found on the policy [webpage](https://computing.unl.edu/academic-integrity-policy/). In general, the SoC uses a three-strike system for students as outlined below:  
+
+1. For a first offense, they will receive no credit for the assignment.
+   1. The sanction can increase straight to a failing grade in the class if the violation was bad enough.
+   2. Students no longer in the class will be referred to a conduct officer from the Office of Student Conduct.
+2. For a second offense, they will receive a failing grade in the class and will not be permitted to drop the class.
+   1. Again, students no longer in the class will be referred to a conduct officer from the Office of Student Conduct.
+3. For a third offense, they will be expelled from their computing major or minor and will be barred from enrolling in future SoC courses.
+
+All offenses will be reported to the Office of Student Conduct, regardless of the sanction imposed.  
 
 ### Appeals process
-TODO
+In the case that a student believes they are not guilty of academic dishonesty or feels the sanction they received was greater than what was called for, the Chair of the School of Computing can be contacted. Once the student does this, an appropriate committee will be assigned to review the case and provide a recommendation to the instructors. The instructors can then choose whether to alter the sanction in light of the committee's decision.  
 
 ## FAQ 
-TODO
