@@ -35,11 +35,11 @@ Feel free to view the [sigmod03 PDF](https://github.com/jharvey25/Moss-Overview/
 for details on the algorithm. It's a pretty interesting read!  
 
 ### Features
-- **Whitespace insensitivity**
+- Whitespace insensitivity
   - Differences in whitespace (indentation/between blocks/etc.) and identifier names are ignored.
-- **Noise suppression**
+- Noise suppression
   - Potential matches must be long enough to be considered significant.
-- **Position independence**
+- Position independence
   - Blocks can match regardless of position in the source files.
 
 ## What counts as cheating?  
@@ -97,7 +97,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 </details>
 
 <details>
-  <summary>Working on the same source file with a peer for a partner assignment</summary> 
+  <summary>Working on the same source file as your peer for a partner assignment</summary> 
 
     Acting honestly! ^_^
 
@@ -108,11 +108,18 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 
 ## Grading/Code review process
 
-### General timeline
-TODO
+### Grading outline
+For CSCE 155A, assignment grading is done by Learning Assistants (LA's) and managed by Course Leaders (CL's). A general layout of the process can be found below.
+
+- Grading is assigned to LA's after the assignment deadline is passed.
+  - Late policy is `-20% per day`.
+- Student scores are posted by CL's after grading is completed.
+- Any student with questions about their received score have until `7 calendar days` after grades are posted to discuss with their respective grader.
+  - The grader of an assignment can be found in the submission comments on Canvas.
+  - After this 7-day period, scores are treated as finalized and any requests by students to revisit their score may be denied.
 
 ### How cheating is caught
-TODO
+During grading, LA's will report any suspicions to the CL's. Anything missed by the graders will typically be picked up by Moss. Regardless of how a potential match was identified, the instructors and CL's will review it and discuss whether the source files show enough evidence to flag the students for violating the academic integrity policy.
 
 ## Getting flagged for cheating
 TODO
