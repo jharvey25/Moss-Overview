@@ -48,7 +48,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 <details>
   <summary>Talking with peers about what class concepts you should use for the assignment</summary>  
   
-    Acting honestly! ^_^
+    Acting honestly! :)
 
     Hashing things out at a high level is often encouraged in comp sci courses.
     Note that "high level" just means "keep it general".
@@ -58,7 +58,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 <details>
   <summary>Posting your solutions online or showing them to peers before submissions close</summary> 
 
-    Acting dishonestly... >_<
+    Acting dishonestly... >:^(
 
     There’s a big difference between helping someone debug and helping them rewrite a whole block.  
     When in doubt, have them reach out to a TA to get help.
@@ -68,7 +68,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 <details>
   <summary>Viewing code from a video/forum and writing the same block in your own solution</summary> 
 
-    Acting dishonestly... >_<
+    Acting dishonestly... >:^(
 
     Every year, somebody will decide they’ve beaten the system by manually typing the copied code  
     instead of using copy/paste shortcuts.
@@ -79,7 +79,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 <details>
   <summary>Meeting an instructor or TA in office hours to talk about out how to approach a problem</summary> 
 
-    Acting honestly! ^_^
+    Acting honestly! :)
 
     This is usually your safest bet when it comes to getting help! They know exactly what kind of 
     solution you should be working toward and can provide tips that won't get you in trouble.
@@ -89,7 +89,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 <details>
   <summary>Taking code and renaming identifiers or shuffling the order of blocks</summary> 
 
-    Acting dishonestly... >_<
+    Acting dishonestly... >:^(
 
     Seems like a pretty straightforward one, this is an example of deliberately trying to 
     "trick" graders.
@@ -100,7 +100,7 @@ In the School of Computing at UNL, academic dishonesty can take many forms. A li
 <details>
   <summary>Working with someone on the same source file for a partner assignment</summary> 
 
-    Acting honestly! ^_^
+    Acting honestly! :)
 
     When instructors explicitly allow working together for an assignment, they'll make it clear.
     By default, you can safely assume no direct collaboration is allowed on coding assignments.
@@ -116,7 +116,7 @@ For CSCE 155A, assignment grading is done by Learning Assistants (LA's) and mana
   - Late policy is `-20% per day`, tracked by Canvas.
   - Scores are hidden during this time.
 - Student scores are posted by CL's after grading is completed.
-- Any student with questions about their received score has up to `7 calendar days` after grades are posted to discuss with their respective grader.
+- Any student with questions about their received score has up to `3 calendar days` after grades are posted to discuss with their respective grader.
   - The grader of an assignment can be found in the submission comments on Canvas.
   - After this period, scores are treated as finalized and future requests by students to revisit their score may be denied.
 
@@ -144,7 +144,4 @@ All offenses will be reported to the Office of Student Conduct, regardless of th
 
 ### Appeals process
 In the case that a student believes they are not guilty of academic dishonesty or feels the sanction was worse than was called for, the Chair of the School of Computing can be contacted. Once the student does this, an appropriate committee will be assigned to review the case and provide a recommendation to the instructors. The instructors can then choose whether to alter the sanction in light of the committee's decision.  
-
-## FAQ 
-**Q:** thought-provoking question  
-**A:** thorough-yet-concise answer (you get how this works)  
+ 
